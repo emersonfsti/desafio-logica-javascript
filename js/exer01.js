@@ -27,7 +27,7 @@ console.log("Meu nome é " + meuNome + ", eu tenho " + minhaIdade + " anos, e mo
 **Código de Solução:**
 
 ```javascript
-
+// declara variaveis
 let meuNome = "Emerson"; 
 let minhaIdade = 44; 
 let minhaCidade = "São Paulo"; 
